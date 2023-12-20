@@ -1,0 +1,10 @@
+<!-- maven-settings.xml -->
+<settings>
+  <servers>
+    <server>
+      <id>your-repository-id</id>
+      <username>your-username</username>
+      <password>your-password</password>
+    </server>
+  </servers>
+</settings>
